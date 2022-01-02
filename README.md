@@ -12,12 +12,21 @@
 
 
 功能：
+
 1.社科基金项目数据爬取
+
 ![image](https://user-images.githubusercontent.com/58450966/147872275-cee01300-9015-46a6-9d01-a677ce52d0ba.png)
+
 2.论文的元数据爬取
+
 ![image](https://user-images.githubusercontent.com/58450966/147872625-67bcce52-79f7-44db-8114-9b7fabcff348.png)
+
 3.论文的参考和引证的期刊文献爬取
+
+参考文献
 ![image](https://user-images.githubusercontent.com/58450966/147872655-c36d6ac9-3e47-45d7-beae-f9d18583cf47.png)
+
+引证文献
 ![image](https://user-images.githubusercontent.com/58450966/147872665-bd696b0d-7703-4e9c-8e25-16bad899eab3.png)
 
 注意事项：
