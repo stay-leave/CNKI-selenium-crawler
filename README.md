@@ -1,10 +1,15 @@
 # CNKI-selenium-crawler
 
 前提：
+
 本项目使用selenium模块，浏览器使用的是火狐。
+
 1.下载geckodriver，地址https://github.com/mozilla/geckodriver/releases
+
 2.将适配的安装包放置在火狐浏览器的安装路径、Python的Stricpts文件夹
+
 3.将火狐的安装路径添加到电脑环境变量的用户变量的path中。
+
 
 功能：
 1.社科基金项目数据爬取
