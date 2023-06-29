@@ -1,9 +1,128 @@
-<mxfile host="app.diagrams.net" modified="2023-06-29T10:46:53.853Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" version="21.3.8" etag="dEwLyf6zea4jCXZLw_ba" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-29T11:17:55.861Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="yKIADIPklSCZgBBIMbJV" version="21.3.8" type="github">
   <diagram name="第 1 页" id="aXWCKI95lCnfZfkOBbSz">
-    <mxGraphModel>
+    <mxGraphModel dx="1502" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="rvl53SxVwUwdXkjexMYl-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rvl53SxVwUwdXkjexMYl-1" target="rvl53SxVwUwdXkjexMYl-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rvl53SxVwUwdXkjexMYl-1" value="手机评论" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rvl53SxVwUwdXkjexMYl-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rvl53SxVwUwdXkjexMYl-2" target="rvl53SxVwUwdXkjexMYl-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rvl53SxVwUwdXkjexMYl-2" value="关键词" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rvl53SxVwUwdXkjexMYl-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rvl53SxVwUwdXkjexMYl-3" target="rvl53SxVwUwdXkjexMYl-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rvl53SxVwUwdXkjexMYl-3" value="属性词典" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rvl53SxVwUwdXkjexMYl-4" value="聚类＋手动" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="369" y="250" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rvl53SxVwUwdXkjexMYl-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rvl53SxVwUwdXkjexMYl-6" target="rvl53SxVwUwdXkjexMYl-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rvl53SxVwUwdXkjexMYl-6" value="划分各个属性的评论" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rvl53SxVwUwdXkjexMYl-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rvl53SxVwUwdXkjexMYl-10" target="rvl53SxVwUwdXkjexMYl-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rvl53SxVwUwdXkjexMYl-10" value="用lstm计算评论情感，均值即为属性情感值" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rvl53SxVwUwdXkjexMYl-12" value="根据关注度和情感一致性计算属性权重" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rvl53SxVwUwdXkjexMYl-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rvl53SxVwUwdXkjexMYl-14" target="rvl53SxVwUwdXkjexMYl-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rvl53SxVwUwdXkjexMYl-14" value="酒店评论" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rvl53SxVwUwdXkjexMYl-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rvl53SxVwUwdXkjexMYl-15" target="rvl53SxVwUwdXkjexMYl-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rvl53SxVwUwdXkjexMYl-15" value="关键词" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rvl53SxVwUwdXkjexMYl-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rvl53SxVwUwdXkjexMYl-17" target="rvl53SxVwUwdXkjexMYl-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rvl53SxVwUwdXkjexMYl-17" value="词向量训练" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rvl53SxVwUwdXkjexMYl-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rvl53SxVwUwdXkjexMYl-19" target="rvl53SxVwUwdXkjexMYl-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rvl53SxVwUwdXkjexMYl-19" value="词向量相似度扩充属性特征词典" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rvl53SxVwUwdXkjexMYl-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rvl53SxVwUwdXkjexMYl-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="790" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rvl53SxVwUwdXkjexMYl-20" value="领域属性特征词典" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rvl53SxVwUwdXkjexMYl-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rvl53SxVwUwdXkjexMYl-23" target="rvl53SxVwUwdXkjexMYl-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rvl53SxVwUwdXkjexMYl-23" value="既有情感词典" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="706" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rvl53SxVwUwdXkjexMYl-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rvl53SxVwUwdXkjexMYl-24" target="rvl53SxVwUwdXkjexMYl-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rvl53SxVwUwdXkjexMYl-24" value="种子词" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="707" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rvl53SxVwUwdXkjexMYl-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rvl53SxVwUwdXkjexMYl-26" target="rvl53SxVwUwdXkjexMYl-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rvl53SxVwUwdXkjexMYl-26" value="领域情感词典" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="707" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rvl53SxVwUwdXkjexMYl-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rvl53SxVwUwdXkjexMYl-28" target="rvl53SxVwUwdXkjexMYl-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rvl53SxVwUwdXkjexMYl-28" value="依存句法分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rvl53SxVwUwdXkjexMYl-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rvl53SxVwUwdXkjexMYl-29" target="rvl53SxVwUwdXkjexMYl-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rvl53SxVwUwdXkjexMYl-29" value="SBV&amp;nbsp; VOB" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rvl53SxVwUwdXkjexMYl-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rvl53SxVwUwdXkjexMYl-30" target="rvl53SxVwUwdXkjexMYl-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rvl53SxVwUwdXkjexMYl-30" value="属性词-情感词" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rvl53SxVwUwdXkjexMYl-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rvl53SxVwUwdXkjexMYl-34" target="rvl53SxVwUwdXkjexMYl-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rvl53SxVwUwdXkjexMYl-34" value="Ｂｏ ｓ ｏ ｎＮＬＰ ｓ ｅ ｎ ｔ ｉ ｍｅ ｎ ｔ ｓ ｃ ｏ ｒ ｅ 情感词&amp;#xa;典 ，" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="450" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rvl53SxVwUwdXkjexMYl-38" value="取均值得到属性情感值" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rvl53SxVwUwdXkjexMYl-41" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="700" as="sourcePoint" />
+            <mxPoint x="470" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
