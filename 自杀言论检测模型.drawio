@@ -1,9 +1,75 @@
-<mxfile host="app.diagrams.net" modified="2023-07-30T07:44:26.916Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" version="21.3.8" etag="io7UvvE0X5BNb8DqU-Nh" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-30T15:24:58.102Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="aD8OUFF7-uXEz0Nq6rMh" version="21.3.8" type="github">
   <diagram name="第 1 页" id="JvnWdVgthKfiC-_RACWI">
-    <mxGraphModel>
+    <mxGraphModel dx="2117" dy="1795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="azUv9STSnnrM02qxb-A_-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="azUv9STSnnrM02qxb-A_-1" target="azUv9STSnnrM02qxb-A_-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="azUv9STSnnrM02qxb-A_-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;post&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="480" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="azUv9STSnnrM02qxb-A_-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="azUv9STSnnrM02qxb-A_-2" target="azUv9STSnnrM02qxb-A_-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="azUv9STSnnrM02qxb-A_-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;time&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="azUv9STSnnrM02qxb-A_-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;dian, zuan, ping&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="azUv9STSnnrM02qxb-A_-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="azUv9STSnnrM02qxb-A_-4" target="azUv9STSnnrM02qxb-A_-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="azUv9STSnnrM02qxb-A_-4" value="&lt;pre style=&quot;border: 0px solid rgb(229, 231, 235); box-sizing: border-box; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(59,130,246,.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; font-family: &amp;quot;IBM Plex Mono&amp;quot;, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; margin: 1.71429em 0px; background-color: rgb(249, 250, 251); border-radius: 0.375rem; color: rgb(75, 85, 99); font-weight: 400; line-height: 1.71429; overflow-x: auto; padding: 0.857143em 1.14286em; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;code style=&quot;border: 0px solid rgb(229, 231, 235); box-sizing: border-box; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(59,130,246,.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; font-family: inherit; color: rgb(31 41 55/var(--tw-text-opacity)); font-weight: 400; background-color: transparent; border-radius: 0px; line-height: inherit; padding: 0px; --tw-text-opacity: 1;&quot; class=&quot;language-python&quot;&gt;bert-base-multi&lt;/code&gt;&lt;/font&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="380" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="azUv9STSnnrM02qxb-A_-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="azUv9STSnnrM02qxb-A_-5" target="azUv9STSnnrM02qxb-A_-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="azUv9STSnnrM02qxb-A_-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;交叉注意力&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="70" width="610" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="azUv9STSnnrM02qxb-A_-7" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;SPE&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="azUv9STSnnrM02qxb-A_-9" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;bi-lstm&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="250" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="azUv9STSnnrM02qxb-A_-21" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="210" width="180" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="azUv9STSnnrM02qxb-A_-23" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.308;entryY=1.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="azUv9STSnnrM02qxb-A_-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="250" as="sourcePoint" />
+            <mxPoint x="260" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="azUv9STSnnrM02qxb-A_-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.684;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="azUv9STSnnrM02qxb-A_-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="437" y="380" as="sourcePoint" />
+            <mxPoint x="440.95000000000005" y="128.98000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="azUv9STSnnrM02qxb-A_-28" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.893;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="azUv9STSnnrM02qxb-A_-3" target="azUv9STSnnrM02qxb-A_-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="571" y="380" as="sourcePoint" />
+            <mxPoint x="569" y="266" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="azUv9STSnnrM02qxb-A_-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="azUv9STSnnrM02qxb-A_-29" target="azUv9STSnnrM02qxb-A_-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="azUv9STSnnrM02qxb-A_-29" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;全连接层&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="-50" width="610" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="azUv9STSnnrM02qxb-A_-30" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;输出结果&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="-160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="azUv9STSnnrM02qxb-A_-33" value="残差连接" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="250" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
