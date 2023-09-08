@@ -1,9 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2023-09-08T00:38:24.886Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0" version="21.6.6" etag="Bhz6bH3DgAcJ_sV-KLK9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-08T00:42:42.833Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="nBCsy-A0FpDl1m6KOQpB" version="21.6.6" type="github">
   <diagram name="第 1 页" id="sG_gCsFC8KlDtSQbSvyM">
-    <mxGraphModel>
+    <mxGraphModel dx="1290" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ouwEdD9TIZDHUKDd6-Au-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="190" width="370" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ouwEdD9TIZDHUKDd6-Au-3" value="时间戳" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="200" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ouwEdD9TIZDHUKDd6-Au-4" value="信息表单ID" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="200" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ouwEdD9TIZDHUKDd6-Au-5" value="数字签名" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="200" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ouwEdD9TIZDHUKDd6-Au-6" value="非对称公钥" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="260" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ouwEdD9TIZDHUKDd6-Au-7" value="关键词密文" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="260" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ouwEdD9TIZDHUKDd6-Au-8" value="加密数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="260" width="110" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
